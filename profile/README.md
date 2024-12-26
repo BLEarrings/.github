@@ -1,5 +1,7 @@
 # 📿  BLEarrings
 
+Please see each individual repos for relating issues.
+
 ## 🚀 Project Overview
 
 Welcome to the **BLEarrings** project! These cutting-edge earrings inspired by Bladerunner 2049 combine fashion with technology, offering unique features that elevate your style and functionality (and most importantly remind you to stay hydrated).
@@ -57,4 +59,14 @@ We welcome contributions from the community! To contribute:
 
 This project is licensed under the MIT License. See the [MIT License](https://mit-license.org/) file for details.
 
+## 📊 Cool Stats 
+
+### Top Contributors 
+  - Hardware ![Top Contributors](https://contrib.rocks/image?repo=blearrings/hardware) 
+  - Embedded ![Profile Views](https://contrib.rocks/image?repo=blearrings/embedded)
+  - App ![Profile Views](https://contrib.rocks/image?repo=blearrings/app)
+
+### Organization Views ![Profile Views](https://komarev.com/ghpvc/?username=blearrings)
+
 Time to fulfill your cyborg dreams! 🎉
+
