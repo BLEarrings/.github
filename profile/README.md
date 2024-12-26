@@ -13,8 +13,8 @@ This project is still in development:
 ## 🌟 Features
 
 - 💡 **Neo-Pixel Lights**: Customizable colors on a pendant that hangs through your ear, cyborg style.
-- 🎶 **Custom Android App**: Syncs with music and ambient sounds for a dynamic light show.
-- 📱 **Custom PCB and Casing**: Manage settings and updates via our mobile app.
+- 🎶 **Custom Android App**: Pairs with the bluetooth app for a dynamic light show.
+- 📱 **Custom PCB and Casing**: Includes a custom mini PCB and 3D printed case design.
 - 🌐 **Bluetooth Low Energy Connectivity**: Seamless pairing with your devices using the NRF52833.
 - 🔋 **Charging Dock**: Long-lasting performance with additional dock battery and long-lasting earring battery.
 
